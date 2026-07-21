@@ -99,8 +99,6 @@ Designed a Python web scraping application to collect, process, and organize dat
 ---
 
 
----
-
 ## 🏆 Achievements
 
 - 🎓 Maintaining a **CGPA of 8.31/10** in B.Tech Computer Science & Engineering.
