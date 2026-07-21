@@ -77,6 +77,16 @@ Developed a real-time vehicle detection application using OpenCV.
 
 ---
 
+## 🏆 Achievements
+
+- 🎓 Maintaining a **CGPA of 8.31/10** in B.Tech Computer Science & Engineering.
+- 💻 Developed multiple academic and personal projects using **Java, Python, FastAPI, and OpenCV**.
+- 🤖 Built a **Role-Based AI Chatbot (RAG)** for secure document retrieval using FastAPI, ChromaDB, and Streamlit.
+- 🚍 Participated in the **Safe Drive Hack** by developing a Computer Vision-based Camera Blocking Detection System.
+- 📚 Consistently improving problem-solving skills through **Data Structures & Algorithms** and coding practice.
+- 🌱 Continuously learning modern technologies including **Spring Boot, System Design, and Machine Learning**.
+- 🔧 Strong foundation in **Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**.
+  
 ## 🌱 Currently Learning
 
 - Spring Boot
