@@ -63,17 +63,45 @@ Computer Science and Engineering
 
 ## 🚀 Projects
 
-### Company Internal Chatbot (RAG)
-Developed a secure role-based AI chatbot using FastAPI, ChromaDB, and Streamlit for intelligent document retrieval.
+### 🤖 Internal Chatbot with Role-Based Access Control (RAG)
+Developed an AI-powered Retrieval-Augmented Generation (RAG) chatbot with Role-Based Access Control (RBAC) using FastAPI, ChromaDB, and Streamlit. The chatbot securely retrieves organizational documents based on user roles, ensuring controlled access to information.
 
-### Safe Drive Hack
-Designed a computer vision-based camera blockage detection system to improve the reliability of Advanced Driver Assistance Systems (ADAS).
+**Tech Stack:** Python, FastAPI, Streamlit, ChromaDB, Sentence Transformers
 
-### Student Management System
-Built a Java application implementing CRUD operations using Object-Oriented Programming principles.
+---
 
-### Vehicle Detection
-Developed a real-time vehicle detection application using OpenCV.
+### 🚍 Camera Blocking Alert System
+Developed a real-time camera blockage detection system using Python and OpenCV. The system detects temporary and permanent camera obstructions, triggers audio alerts, and supports manual video recording to improve the reliability of ADAS-based transportation systems.
+
+**Tech Stack:** Python, OpenCV, NumPy
+
+---
+
+### 🩺 Diabetes Prediction System
+Built a Machine Learning application to predict the likelihood of diabetes based on patient health parameters. The project focuses on data preprocessing, model training, evaluation, and prediction.
+
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy
+
+---
+
+### 🎓 Student Management System
+Developed a Java-based desktop application that manages student records through CRUD (Create, Read, Update, Delete) operations while following Object-Oriented Programming principles.
+
+**Tech Stack:** Java
+
+---
+
+### 🌐 Web Scraper
+Designed a Python web scraping application to collect, process, and organize data from websites for analysis and automation purposes.
+
+**Tech Stack:** Python, BeautifulSoup, Requests
+
+---
+
+### 💼 GitHub Profile Repository
+Created and maintained a professional GitHub profile showcasing projects, technical skills, achievements, and learning journey.
+
+**Tech Stack:** Markdown, GitHub
 
 ---
 
