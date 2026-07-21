@@ -38,6 +38,8 @@ Computer Science and Engineering
 - Python
 - C
 - SQL
+- HTML
+- CSS
 
 ### Core Subjects
 - Data Structures & Algorithms
@@ -54,7 +56,6 @@ Computer Science and Engineering
 - OpenCV
 
 ### Tools
-- IntelliJ IDEA
 - Visual Studio Code
 - Eclipse
 - Jupyter Notebook
@@ -106,7 +107,7 @@ Designed a Python web scraping application to collect, process, and organize dat
 -  Built a **Role-Based AI Chatbot (RAG)** for secure document retrieval using FastAPI, ChromaDB, and Streamlit.
 -  Participated in the **Safe Drive Hack** by developing a Computer Vision-based Camera Blocking Detection System.
 -  Consistently improving problem-solving skills through **Data Structures & Algorithms** and coding practice.
--  Continuously learning modern technologies including **Spring Boot, System Design, and Machine Learning**.
+-  Continuously learning modern technologies including **Artificial Intelligence and Machine Learning**.
 -  Strong foundation in **Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**.
 
 ---
