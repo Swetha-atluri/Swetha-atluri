@@ -59,6 +59,7 @@ Computer Science and Engineering
 - Visual Studio Code
 - Eclipse
 - Jupyter Notebook
+- Google collab
 
 ---
 
