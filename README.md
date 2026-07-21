@@ -98,10 +98,6 @@ Designed a Python web scraping application to collect, process, and organize dat
 
 ---
 
-### 💼 GitHub Profile Repository
-Created and maintained a professional GitHub profile showcasing projects, technical skills, achievements, and learning journey.
-
-**Tech Stack:** Markdown, GitHub
 
 ---
 
