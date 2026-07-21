@@ -108,6 +108,8 @@ Designed a Python web scraping application to collect, process, and organize dat
 - 📚 Consistently improving problem-solving skills through **Data Structures & Algorithms** and coding practice.
 - 🌱 Continuously learning modern technologies including **Spring Boot, System Design, and Machine Learning**.
 - 🔧 Strong foundation in **Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks**.
+
+---
   
 ## 🌱 Currently Learning
 
