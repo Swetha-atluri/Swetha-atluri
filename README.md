@@ -137,7 +137,7 @@ Python application for extracting and organizing website data efficiently.
 
 ---
 
-# 📫 Connect With Me
+- 📫 Connect With Me
 
 <div align="center">
 
@@ -153,11 +153,13 @@ Python application for extracting and organizing website data efficiently.
 
 ---
 
+
 <div align="center">
 
 ### ⭐ Thanks for visiting my GitHub Profile!
 
-> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
-> **— Harold Abelson**
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+**— Harold Abelson**
 
 </div>
