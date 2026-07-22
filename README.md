@@ -116,29 +116,40 @@ Python application for extracting and organizing website data efficiently.
 
 ---
 
-# 🌱 Currently Learning
+# 📜 Certifications
 
-- Artificial Intelligence
-- Machine Learning
-- Spring Boot
-- Backend Development
-- Advanced Java
+- 🏅 OCI AI Foundations – Oracle
+- 🏅 TCS iON Young Professional
+- 🏅 Front-End Development – Infosys Springboard
+- 🏅 Python Foundations – Infosys Springboard
+- 🏅 Google Cloud Career Launchpad – Computing Foundations
+- 🏅 Software Testing – NPTEL
 
 ---
 
-# 🎯 Career Objective
+# 🌱 Currently Learning
 
-Aspiring Software Engineer with a strong interest in developing scalable software solutions, applying AI to real-world challenges, and continuously expanding technical expertise through learning and hands-on experience.
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🌐 Backend Development
+- ☁️ Google Cloud Technologies
+- ☕ Advanced Java
 
 ---
 
 # 📫 Connect With Me
 
-📧 **Email:** **swethaatluri24@gmail.com**
+<div align="center">
 
-💼 **LinkedIn:** **https://linkedin.com/in/swethaatluri**
+<a href="mailto:swethaatluri24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://linkedin.com/in/swethaatluri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+</div>
 
 ---
 
@@ -146,6 +157,7 @@ Aspiring Software Engineer with a strong interest in developing scalable softwar
 
 ### ⭐ Thanks for visiting my GitHub Profile!
 
-**"Code • Learn • Build • Grow" 🚀**
+> **"Programs must be written for people to read, and only incidentally for machines to execute."**  
+> **— Harold Abelson**
 
 </div>
