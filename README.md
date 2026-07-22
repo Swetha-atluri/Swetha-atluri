@@ -118,12 +118,12 @@ Python application for extracting and organizing website data efficiently.
 
 # 📜 Certifications
 
-- 🏅 OCI AI Foundations – Oracle
-- 🏅 TCS iON Young Professional
-- 🏅 Front-End Development – Infosys Springboard
-- 🏅 Python Foundations – Infosys Springboard
-- 🏅 Google Cloud Career Launchpad – Computing Foundations
-- 🏅 Software Testing – NPTEL
+- OCI AI Foundations – Oracle
+- TCS iON Young Professional
+- Front-End Development – Infosys Springboard
+- Python Foundations – Infosys Springboard
+- Google Cloud Career Launchpad – Computing Foundations
+-  Software Testing – NPTEL
 
 ---
 
