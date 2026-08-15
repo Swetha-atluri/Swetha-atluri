@@ -129,11 +129,11 @@ Python application for extracting and organizing website data efficiently.
 
 # 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🌐 Backend Development
-- ☁️ Google Cloud Technologies
-- ☕ Advanced Java
+-  Artificial Intelligence
+-  Machine Learning
+-  Backend Development
+-  Google Cloud Technologies
+-  Advanced Java
 
 ---
 
