@@ -97,11 +97,11 @@ Passionate about building real-world software solutions and continuously learnin
 
 # 🌱 Currently Learning
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚙️ Backend Development
-- ☁️ Google Cloud Technologies
-- ☕ Advanced Java
+- Artificial Intelligence
+-  Machine Learning
+-  Backend Development
+-  Google Cloud Technologies
+-  Advanced Java
 
 ---
 
