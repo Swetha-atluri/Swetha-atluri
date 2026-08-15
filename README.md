@@ -107,12 +107,12 @@ Python application for extracting and organizing website data efficiently.
 
 # 🏆 Achievements
 
-- 🎓 Maintained a **CGPA of 8.31/10** in B.Tech Computer Science & Engineering.
-- 🤖 Developed an **AI-powered Internal Chatbot** using RAG architecture.
-- 🚍 Participated in **Safe Drive Hack** with a Computer Vision-based Camera Blocking Alert System.
-- 💻 Built multiple software development and machine learning projects.
-- 📚 Strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, **DBMS**, **Operating Systems**, and **Computer Networks**.
-- 🌱 Continuously learning emerging technologies in AI, backend development, and software engineering.
+- Maintained a **CGPA of 8.31/10** in B.Tech Computer Science & Engineering.
+-  Developed an **AI-powered Internal Chatbot** using RAG architecture.
+-  Participated in **Safe Drive Hack** with a Computer Vision-based Camera Blocking Alert System.
+-  Built multiple software development and machine learning projects.
+-  Strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, **DBMS**, **Operating Systems**, and **Computer Networks**.
+-  Continuously learning emerging technologies in AI, backend development, and software engineering.
 
 ---
 
