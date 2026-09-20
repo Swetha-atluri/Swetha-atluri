@@ -120,12 +120,13 @@ Passionate about building real-world software solutions and continuously learnin
 
 # 🌱 Currently Learning
 
-- Artificial Intelligence
--  Machine Learning
--  Backend Development
--  Google Cloud Technologies
--  Advanced Java
-
+- Generative AI & Retrieval-Augmented Generation (RAG)
+- Backend Development & REST API Design
+- Advanced Java & Object-Oriented Programming
+- AI/ML Application Development
+- Natural Language Processing & Computer Vision
+- Building Practical, Scalable AI-Powered Applications
+  
 ---
 
 # 📫 Connect With Me
