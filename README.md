@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Atluri Swetha
 
-### Computer Science Engineering Undergraduate | AI & ML | Generative AI | RAG | Backend Development | Java & Python
+### Computer Science Engineering Undergraduate | AI & ML | Generative AI | RAG | Backend Development
 
 Passionate about building real-world software solutions and continuously learning modern technologies.
 
