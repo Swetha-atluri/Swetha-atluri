@@ -13,11 +13,11 @@ Passionate about building real-world software solutions and continuously learnin
 
 # 👩‍💻 About Me
 
-- 🎓 Fourth-Year B.Tech student in **Computer Science & Engineering** at **Dhanekula Institute of Engineering & Technology**.
-- 📈 Current CGPA: **8.31/10**.
-- 💡 Passionate about **Software Development, Artificial Intelligence, Backend Development, and Problem Solving**.
-- 🚀 Enjoy building real-world applications and continuously improving my technical skills through projects and coding practice.
-- 🌱 Always eager to learn emerging technologies and contribute to impactful software solutions.
+-  Fourth-Year B.Tech student in **Computer Science & Engineering** at **Dhanekula Institute of Engineering & Technology**.
+-  Current CGPA: **8.31/10**.
+-  Passionate about **Software Development, Artificial Intelligence, Backend Development, and Problem Solving**.
+-  Enjoy building real-world applications and continuously improving my technical skills through projects and coding practice.
+-  Always eager to learn emerging technologies and contribute to impactful software solutions.
 
 ---
 
